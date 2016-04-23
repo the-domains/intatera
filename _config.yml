@@ -1,0 +1,28 @@
+name: Intatera
+favicon: null
+layout_spectrum: 0.6866583449300379
+typography_spectrum: 0.3040187982842326
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.599436963442713
+  lightness: 0.7392778329085559
+  saturation: 0.25839002802968025
+  rhythmicContrast: 0.7420548722147942
+purpose: []
